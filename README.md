@@ -1,7 +1,7 @@
 # Task-COA
 Task COA untuk PT Trans Berjaya Khatulistiwa
 
-Aplikasi ini dibangun menggunakan framework Laravel untuk membantu manajemen dan pelaporan Cost of Activity (COA) secara efisien.
+Aplikasi ini dibangun menggunakan framework Laravel untuk membantu manajemen dan pelaporan COA secara efisien.
 
 ---
 
